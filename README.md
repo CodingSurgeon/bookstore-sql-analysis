@@ -32,8 +32,11 @@ ________________________________________
 Files
 File	Description
 bookstore_portfolio.sql	All 20 queries with business context, organized into basic and advanced sections
+
 Books.csv	Raw book catalog data — title, author, genre, publication year, price, and stock
+
 Customers.csv	Customer records including name, contact details, city, and country
+
 Orders.csv	Transaction data capturing order date, quantity, and total amount
 ________________________________________
 How to Run
