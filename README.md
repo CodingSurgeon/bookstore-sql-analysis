@@ -31,7 +31,7 @@ Tools Used
 ________________________________________
 Files
 
-bookstore_portfolio.sql	All 20 queries with business context, organized into basic and advanced sections
+bookstore_portfolio.sql	All queries with business context, organized into basic and advanced sections
 
 Books.csv	Raw book catalog data — title, author, genre, publication year, price, and stock
 
